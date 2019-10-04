@@ -1,9 +1,5 @@
-public class Circle extends Shape{
-	public Cirle(){
-		super();
-	}
 
-	public Circle(int x,int y){
-		super(x,y);
-	}
+package com.example.lab4;
+
+public class Circle extends Shape {
 }
